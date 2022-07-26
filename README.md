@@ -10,15 +10,15 @@
  <a href="#autor">Autor</a>
 </p>
 
-<img src="./src/assets/photo.png"/>
+<img src="./src/assets/crwn.png"/>
 
 <h2>🧾Descrição</h2>
 
 <blockquote >
-  Esse projeto foi desenvolvido durante um curso que fiz. Nesse projeto pude aprender diversas coisas como clean code,  componentização, context API, data flow. Por fim, irei por com certeza aplicar tudo que aprendi nos meus próximos projetos.
+  Esse projeto foi desenvolvido durante um curso que fiz. Nesse projeto pude aprender diversas coisas como clean code,  componentização, context API, data flow. Por fim, irei com certeza aplicar tudo que aprendi nos meus próximos projetos.
 </blockquote>
 
-<p align="center">Acesse o projeto clicando <a href="" target="_blank"> aqui </a> </p>
+<p align="center">Acesse o projeto clicando <a href="https://crwn-clothing-the-matheuslima.vercel.app/" target="_blank"> aqui </a> </p>
 
 <h2>🚀Tecnologias</h2/>
 
